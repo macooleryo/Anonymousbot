@@ -1,16 +1,16 @@
 {
-  "name": "davex-ultra",
+  "name": "anonymous-ai",
   "version": "3.0.0",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "dev": "node index.js",
-    "start": "pm2 start index.js --name davex-ultra --max-memory-restart 512M --max-restarts 10 --restart-delay 5000 --node-args=\"--max-old-space-size=512\" --time --attach",
-    "stop": "pm2 stop davex-ultra",
-    "restart": "pm2 restart davex-ultra && pm2 logs davex-ultra",
-    "logs": "pm2 logs davex-ultra --lines 100",
+    "start": "pm2 start index.js --name anonymous-ai --max-memory-restart 512M --max-restarts 10 --restart-delay 5000 --node-args=\"--max-old-space-size=512\" --time --attach",
+    "stop": "pm2 stop anonymous-ai",
+    "restart": "pm2 restart anonymous-ai && pm2 logs anonymous-ai",
+    "logs": "pm2 logs anonymous-ai --lines 100",
     "status": "pm2 status",
-    "delete": "pm2 delete davex-ultra",
+    "delete": "pm2 delete anonymous-ai",
     "setup": "node setup.js",
     "stash": "git stash && git stash drop"
   },
