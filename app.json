@@ -1,9 +1,9 @@
 {
-  "name": "DAVE-X ULTRA",
-  "description": "DAVE X WhatsApp Bot",
+  "name": "Anonymous Ai",
+  "description": "Anonymous Ai WhatsApp Bot",
   "logo": "https://h.uguu.se/GiYWpWoC.jpg",
   "keywords": ["whatsapp-bot"],
-  "repository": "https://github.com/Davex-254/DAVE-X",
+  "repository": "https://github.com/macooleryo/Anonymousbot",
   "stack": "container",
   "addons": [
     {
@@ -15,7 +15,7 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'DAVE-X:~'.",
+      "description": "Must begin with 'ANONYMOUS-AI:~'.",
       "value": "",
       "required": true
     }
