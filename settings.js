@@ -10,7 +10,7 @@ const settings = {
   errorReaction: '',
   watermark: 'Anonymous Ai',
   description: 'Anonymous Ai - The Most Powerful WhatsApp Bot',
-  channelLink: 'https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k',
+  channelLink: 'https://whatsapp.com/channel/0029VbCVwgy9MF99d4Hj7d3K',
   dev: '254104260236',
   devgit: 'https://github.com/macooleryo/Anonymousbot',
   timezone: 'Africa/Nairobi',
