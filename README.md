@@ -44,28 +44,12 @@
 
 ---
 
-## 🎥 VIDEO TUTORIAL
-
-<p align="center">
-  <a href="https://youtu.be/wJKMV0BSqpE?si=6Y11rPD0t2ykoxB8" target="_blank">
-    <img src="https://img.shields.io/badge/📺_WATCH_TUTORIAL-red?style=for-the-badge&logo=youtube&logoColor=white" width="280">
-  </a>
-</p>
-
-<p align="center">
-  <strong>How to deploy Anonymous Ai on any panel in 2026</strong><br>
-  Step-by-step video guide — get your bot running in minutes.
-</p>
-
----
+#
 
 ## 👨‍💻 ABOUT THE AUTHOR
 
-> **Zuka** — building powerful bots with passion.  
-> 🎬 Also check out my movie streaming site:  
-> 👉 [**DAVEXMOVIES**](https://www.davex-moviezone.zone.id) — stream the latest movies & TV shows for free!
+> **Zuka** — building powerful bots with passion.
 
----
 
 ## 📌 QUICK TIPS
 
