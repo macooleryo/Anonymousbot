@@ -1,0 +1,14 @@
+{
+  "build": {
+    "builder": "paketobuildpacks/builder:base",
+    "env": {
+      "BP_NODE_RUN_SCRIPT": "start"
+    }
+  },
+  "env": {
+    "SESSION_ID": {
+      "description": "Your WhatsApp session ID",
+      "value": ""
+    }
+  }
+}
