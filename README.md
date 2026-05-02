@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/NnFRdWxm/upload-1771680267489-4b4129c8-jpg.jpg" alt="Anonymous Ai" width="300"/>
+  <img src="https://files.catbox.moe/8yz3ex.jpg" alt="Anonymous Ai" width="300"/>
 </p>
 
 <p align="center">
@@ -26,14 +26,14 @@
   <table>
     <tr>
       <td align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/macooleryo/Anonymousbot" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"></a></td>
-      <td align="center"><a href="https://replit.com/github/macooleryo/Anonymousbot" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/macooleryo/Anonymousbot" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" alt="Koyeb"></a></td>
       <td align="center"><a href="https://railway.app/new/template?template=https://github.com/macooleryo/Anonymousbot" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"></a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://render.com/deploy?repo=https://github.com/macooleryo/Anonymousbot" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"></a></td>
+      <td align="center"><a href="https://replit.com/github/macooleryo/Anonymousbot" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/macooleryo/Anonymousbot" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" alt="Koyeb"></a></td>
       <td align="center"><a href="https://app.netlify.com/start/deploy?repository=https://github.com/macooleryo/Anonymousbot" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a></td>
     </tr>
     <tr>
